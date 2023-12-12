@@ -1,0 +1,5 @@
+{
+  "name": "bun-test-tgz-without-workspaces",
+  "module": "index.js",
+  "type": "module"
+}

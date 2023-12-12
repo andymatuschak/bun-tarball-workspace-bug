@@ -1,0 +1,8 @@
+{
+  "name": "bun-test-tgz-with-workspaces",
+  "module": "index.js",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ]
+}

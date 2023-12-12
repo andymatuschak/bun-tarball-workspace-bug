@@ -1,0 +1,5 @@
+{
+  "name": "subpackage",
+  "module": "index.js",
+  "type": "module"
+}
